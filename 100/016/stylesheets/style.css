@@ -1,0 +1,62 @@
+body {
+    background: rgb(65, 65, 65);
+}
+header, main, footer  {
+    background: #F1F2F3;
+    border-radius: 10px;
+    border: 3px solid #ccc;
+    width: 754px;
+    margin: 0 auto 15px;
+    padding: 5px;
+}
+h1 {
+    color: #214F81;
+    font-size: 38px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+h2, h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #214F81;
+    margin: 10px 0;
+}
+h2 {
+    font-size: 22px;
+}
+h3 {
+    font-size: 16px;
+}
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.task {
+    background-color: white;
+    border: 1px solid #ccc;
+    padding: 3px;
+}
+.cursiv{
+    padding-left: 30px;
+    font-style: italic;
+}
+.tablenumber {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 10pt;
+    text-align: center;
+}
+.picture {
+    text-align: center;
+}
+.stepen{
+    vertical-align: super;
+}
+.remark{
+    font-weight: bold;
+}
+footer{
+    text-align: center;
+}
+.answer {
+    text-align: left;
+}
